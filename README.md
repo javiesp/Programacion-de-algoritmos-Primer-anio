@@ -1,2 +1,2 @@
 # algorithms1stYear
-My personal repo to learn algorithms
+#Repositorio de programación de algoritmos/primer año
